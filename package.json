@@ -1,6 +1,26 @@
 {
+  "name": "qr-code-generator",
+  "type": "module",
   "dependencies": {
     "inquirer": "^12.5.2",
     "qr-image": "^3.2.0"
-  }
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahbazali2001/qrcode_generator.git"
+  },
+  "keywords": [],
+  "author": "Shahbaz Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shahbazali2001/qrcode_generator/issues"
+  },
+  "homepage": "https://github.com/Shahbazali2001/qrcode_generator#readme"
 }
